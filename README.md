@@ -58,7 +58,7 @@ make your changes.
 
 #### Now run backend 
 ```bash
-`.\mvnw spring-boot:run
+.\mvnw spring-boot:run
 ```
 #### Run Frontend:
 ```bash
