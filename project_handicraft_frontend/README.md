@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deploy By [Sunit Mal](https://github.com/sunit-mal)
+
 
 ## Available Scripts
 
