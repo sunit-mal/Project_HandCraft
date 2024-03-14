@@ -5,7 +5,8 @@ _Deployed By [Sunit Mal](https://github.com/sunit-mal)_
 ## Preview
 ![Screenshot (4)](https://github.com/sunit-mal/Project_HandCraft/assets/110469858/268291aa-bbe6-4014-8fa5-013acdf01cda)
 
-![c0f3b214-f752-4d3e-ae6e-2d695826a7ba](https://github.com/sunit-mal/Project_HandCraft/assets/110469858/4e83a19d-c7db-416f-9bf7-974fa58dac63)
+[![c0f3b214-f752-4d3e-ae6e-2d695826a7ba](https://github.com/sunit-mal/Project_HandCraft/assets/110469858/4e83a19d-c7db-416f-9bf7-974fa58dac63)](https://github.com/sunit-mal/Project_HandCraft/assets/110469858/058f9995-c319-4a5f-8c92-63dab64d46a8
+)
 
 ## Project Overview
 
