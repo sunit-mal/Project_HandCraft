@@ -2,6 +2,12 @@
 
 _Deployed By [Sunit Mal](https://github.com/sunit-mal)_
 
+## Preview
+![Screenshot (4)](https://github.com/sunit-mal/Project_HandCraft/assets/110469858/268291aa-bbe6-4014-8fa5-013acdf01cda)
+
+[![c0f3b214-f752-4d3e-ae6e-2d695826a7ba](https://github.com/sunit-mal/Project_HandCraft/assets/110469858/4e83a19d-c7db-416f-9bf7-974fa58dac63)](https://github.com/sunit-mal/Project_HandCraft/assets/110469858/058f9995-c319-4a5f-8c92-63dab64d46a8
+)
+
 ## Project Overview
 
 Hand Craft is a sophisticated ecommerce platform designed to facilitate the buying and selling of handcrafted products. The platform provides a seamless experience for both sellers and buyers, offering a wide range of features to ensure smooth transactions and customer satisfaction.
@@ -48,14 +54,25 @@ To run the Hand Craft application locally, follow these steps:
 #### First you need to change you db config on properties file
 
 _Steps :_
-` cd .\project_handicraft_backend\src\main\resources\`
-`notepad .\application.properties`
+```bash
+cd .\project_handicraft_backend\src\main\resources\
+```
+```bash
+notepad .\application.properties
+```
 make your changes.
 
 #### Now run backend 
-`.\mvnw spring-boot:run`
-
+```bash
+.\mvnw spring-boot:run
+```
 #### Run Frontend:
-`cd .\project_handicraft_frontend\`
-`npm i`
-`num run`
+```bash
+cd .\project_handicraft_frontend\
+```
+```bash
+npm i
+```
+```bash
+num run
+```
