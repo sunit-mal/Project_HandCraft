@@ -48,14 +48,25 @@ To run the Hand Craft application locally, follow these steps:
 #### First you need to change you db config on properties file
 
 _Steps :_
-` cd .\project_handicraft_backend\src\main\resources\`
-`notepad .\application.properties`
+```bash
+cd .\project_handicraft_backend\src\main\resources\
+```
+```bash
+notepad .\application.properties
+```
 make your changes.
 
 #### Now run backend 
-`.\mvnw spring-boot:run`
-
+```bash
+`.\mvnw spring-boot:run
+```
 #### Run Frontend:
-`cd .\project_handicraft_frontend\`
-`npm i`
-`num run`
+```bash
+cd .\project_handicraft_frontend\
+```
+```bash
+npm i
+```
+```bash
+num run
+```
